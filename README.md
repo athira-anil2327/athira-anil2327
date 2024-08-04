@@ -1,9 +1,9 @@
-[MasterHead]blob:https://web.whatsapp.com/863de8b2-83f0-4524-9f8d-2bd077c9620f]
+
 <h1 align="center">Hi 👋, I'm Athira</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/paqQvU3pX5BCXhS97"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athira-anil2327&label=Profile%20views&color=0e75b6&style=flat" alt="athira-anil2327" /> </p>
+ </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athira-anil2327" alt="athira-anil2327" /></a> </p>
 
