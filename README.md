@@ -10,8 +10,8 @@
 - 📫 How to reach me *athiraanilansu@gmail.com*
 
 - 📄 Know about my experiences
-- [Internship on STEM Robotics (DSA with AI)]
-- (Internship on STEM Robotics (python))
+- Internship with STEM Robotics (DSA with AI)
+- Internship with STEM Robotics (python)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
