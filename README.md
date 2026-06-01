@@ -5,8 +5,8 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Tech CSE student at Saintgits College of Engineering (CGPA: 8.60) :contentReference[oaicite:0]{index=0}  
-- 🤖 Passionate about **Machine Learning, Computer Vision, and AI Research** :contentReference[oaicite:1]{index=1}  
+- 🎓 B.Tech CSE student at Saintgits College of Engineering (CGPA: 8.60) 
+- 🤖 Passionate about **Machine Learning, Computer Vision, and AI Research**  
 - 🔬 Currently working on **deep learning models and real-world ML systems**  
 - 🌱 Learning **advanced ML, workflow automation (n8n), and system design**  
 - 💡 Interested in **AI-driven applications and intelligent systems**  
@@ -16,13 +16,13 @@
 ### 🚀 Experience
 
 - **Machine Learning Intern – Intel Unnati Program**  
- Focused on image sharpening using U-Net and knowledge distillation :contentReference[oaicite:2]{index=2}
+ Focused on image sharpening using U-Net and knowledge distillation 
 
 - **ML Research Intern – ICCC Taiwan × Saintgits**  
   Working on smart city traffic optimization using ML models  
 
 - **Web Development Intern – Cydez Technologies**  
-  Built responsive web applications and portfolio systems :contentReference[oaicite:3]{index=3}  
+  Built responsive web applications and portfolio systems  
 
 ---
 
