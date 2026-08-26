@@ -65,6 +65,9 @@ Also working with **n8n workflow automation, AI APIs, RAG-based systems, LLM app
 
 **Focus:**  
 `Generative AI` `LLMs` `RAG` `n8n` `NLP` `AI APIs` `Automation` `AI Chatbots`
+
+---
+
 # 🧩 Featured Projects
 
 ## 🚦 Smart City Traffic Monitoring
